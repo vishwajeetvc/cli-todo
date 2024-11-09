@@ -23,13 +23,9 @@ A command-line-based to-do list application that allows users to efficiently man
 2. Change directory into the project folder:
    ```bash
     cd cli-todo
-3. Change the Permission:
-   ```bash
-    chmod +x todolist
-4. Install the required dependencies:
+3. Install the required dependencies:
    ```bash
     npm install
-5. You can add this directory to environment variables (Optional)
 
 ## Usage
 
