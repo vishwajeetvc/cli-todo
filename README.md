@@ -31,11 +31,11 @@ A command-line-based to-do list application that allows users to efficiently man
 
 1. Start the CLI Todo app:
    ```bash
-   ./todolist or node todolist
+   node todolist.js
 
 2. Commands
 
-- **Add <task-name>**: Easily add tasks to your to-do list.
+- **Add task-name**: Easily add tasks to your to-do list.
 - **list**: Display all current tasks with their statuses.
-- **Update <task-no>**: Mark tasks as completed.
-- **Delete <task-no>**: Remove tasks that are no longer needed.
+- **Update task-no**: Mark tasks as completed.
+- **Delete task-no**: Remove tasks that are no longer needed.
