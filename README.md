@@ -39,3 +39,9 @@ A command-line-based to-do list application that allows users to efficiently man
 - **list**: Display all current tasks with their statuses.
 - **Update task-no**: Mark tasks as completed.
 - **Delete task-no**: Remove tasks that are no longer needed.
+
+## Help
+   ```bash
+   node todolist.js --help
+
+
